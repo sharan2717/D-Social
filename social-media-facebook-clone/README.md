@@ -3,6 +3,34 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+## Install Ganache Blockchain
+   The next dependency is a development blockchain, which can be used to mimic the behavior of a production blockchain. We'll use Ganache as our development blockchain for this Dapp. We can use it to develop smart contracts, build applications, and run tests.
+## Truffle Framework
+    The next dependency is the Truffle Framework, which gives us a suite of tools for developing blockchain applications. It will enable us to develop smart contracts, write tests against them, and deploy them to the blockchain.
+    Install Truffle from the command line with NPM like this (NOTE: you must use this exact version of Truffle to follow along with this guide):
+
+### `$ npm install -g truffle@5.0.2`
+
+## Metamask Ethereum Wallet
+  Install the Metamask Ethereum Wallet in order to turn your web browser into a blockchain browser. Your current web browser most likely doesn't support this natively, so we need the Metamask extension for Google Chrome in order to connect to the blockchain.
+
+
+## Reference 
+   Visit the link : https://www.dappuniversity.com/articles/blockchain-tutorial
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 In the project directory, you can run:
 
