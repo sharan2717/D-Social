@@ -1,6 +1,6 @@
 # D-Social
 
-#Technologies Used
+# Technologies Used
 
 •	ReactJS -For frontend UI.
 
