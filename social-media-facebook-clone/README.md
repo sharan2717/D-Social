@@ -1,27 +1,22 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-## Install Ganache Blockchain
-   The next dependency is a development blockchain, which can be used to mimic the behavior of a production blockchain. We'll use Ganache as our development blockchain for this Dapp. We can use it to develop smart contracts, build applications, and run tests.
-## Truffle Framework
-    The next dependency is the Truffle Framework, which gives us a suite of tools for developing blockchain applications. 
-    It will enable us to develop smart contracts, write tests against them, and deploy them to the blockchain.
-    Install Truffle from the command line with NPM like this.
-
-### `$ npm install -g truffle@5.0.2`
-
-## Metamask Ethereum Wallet
-  Install the Metamask Ethereum Wallet in order to turn your web browser into a blockchain browser. Your current web browser most likely doesn't support this natively, so we need the Metamask extension for Google Chrome in order to connect to the blockchain.
 
 
-## Reference 
-   Visit the link : https://www.dappuniversity.com/articles/blockchain-tutorial
+## Output
 
-
+## Website
    ![alt text](https://github.com/sharan2717/D-Social/blob/eb5607d75c2d85f55dabb0bb24f11a31e91b09a2/social-media-facebook-clone/Output%20Screenshots/WhatsApp%20Image%202023-04-25%20at%2010.22.36%20PM.jpeg)
 
+## Web3Storage
+![alt text](https://github.com/sharan2717/D-Social/blob/4980e4196fd434b593d093c02887ec6fdcb010bb/social-media-facebook-clone/Output%20Screenshots/WhatsApp%20Image%202023-04-25%20at%209.53.48%20PM.jpeg)
+## Ganache
+![alt text](https://github.com/sharan2717/D-Social/blob/4980e4196fd434b593d093c02887ec6fdcb010bb/social-media-facebook-clone/Output%20Screenshots/WhatsApp%20Image%202023-04-25%20at%209.51.28%20PM.jpeg)
+
+## Login Screen
+![alt text](https://github.com/sharan2717/D-Social/blob/4980e4196fd434b593d093c02887ec6fdcb010bb/social-media-facebook-clone/Output%20Screenshots/WhatsApp%20Image%202023-04-25%20at%2010.25.05%20PM.jpeg)
+
+## Metamask Wallet
+![alt text](https://github.com/sharan2717/D-Social/blob/4980e4196fd434b593d093c02887ec6fdcb010bb/social-media-facebook-clone/Output%20Screenshots/WhatsApp%20Image%202023-04-25%20at%209.58.32%20PM.jpeg)
+
+## Website
 
 
 
